@@ -4,4 +4,9 @@
     "project-repo": "https://github.com/ethereum-lists/chains/",
     "contributors": ["dghelm"]
   }
+  {
+    "contribution-title": "Scroll's Official Testnet NFT Marketplace",
+    "project-repo": "https://github.com/scroll-tech/contribute-to-scroll/issues/40",
+    "contributors": ["sami1811"]
+  }
 ]
